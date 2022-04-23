@@ -29,4 +29,4 @@ class Item:
 items = [Item(i[0],i[1]) for i in errors.items()]
 items.sort()
 for item in items:
-    print(item.name, item.count
+    print(item.name, item.count)
