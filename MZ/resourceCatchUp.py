@@ -9,4 +9,4 @@ def solution(logOut, logIn):
     else:
         endDown = datetime.datetime(end.year,end.month, end.day, end.hour, 0, 0)+datetime.timedelta(hours=1)
     
-    return foodDiff / ((endDown-startDown).total_seconds()/3600 - 1
+    return foodDiff / ((endDown-startDown).total_seconds()/3600 - 1)
