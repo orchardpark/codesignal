@@ -51,5 +51,4 @@ string solution(vector<vector<string>> requestData, vector<string> proSelections
     auto candidate = *(scores.begin());
     if(candidate.score<=0) return "";
     else return candidate.name;
-    
-
+}
