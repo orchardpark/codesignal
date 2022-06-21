@@ -1,2 +1,2 @@
 # Codesignal
-Solutions to Codesignal Commpany Challenges
+Solutions to Codesignal Company Challenges
