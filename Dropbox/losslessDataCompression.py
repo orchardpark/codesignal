@@ -15,4 +15,4 @@ def solution(inputString, width):
         else:
             result += char
             idx+=1
-    return resul
+    return result
